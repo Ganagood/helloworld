@@ -1,1 +1,1 @@
-sysstem.out.println("gana");
+system.out.println("gana");
